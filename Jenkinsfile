@@ -12,7 +12,7 @@ pipeline {
 
     /*
      * Environment variables are accessible throughout the Pipeline.
-     * add comments
+     * add comments haha
      * Adjust these values accordingly 
      */
     environment {
