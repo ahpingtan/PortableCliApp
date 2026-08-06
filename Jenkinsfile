@@ -73,6 +73,13 @@ pipeline {
             }
         }
 
+	stage('Dummy'){
+		steps {
+			echo 'Some random statement to demo changes applied'
+		}
+		
+	}
+
         stage('Restore') {
             steps {
                 /*
