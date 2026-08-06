@@ -77,7 +77,12 @@ pipeline {
 		steps {
 			echo 'Some random statement to demo changes applied'
 		}
-		
+	}
+  
+  	stage('HuckPing'){
+		steps {
+			echo 'Lets try the cross repo jenkins file build'
+		}
 	}
 
         stage('Restore') {
