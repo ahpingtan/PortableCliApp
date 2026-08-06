@@ -10,6 +10,7 @@ using PortableCliApp;
 
 Console.WriteLine("[HP Training 5-Aug-2026] Cross-platform .NET 10 CLI demonstration");
 Console.WriteLine("Hello HuckPing");
+Console.WriteLine("Python is the best programming language in the world");
 Console.WriteLine("========================================");
 Console.WriteLine();
 
