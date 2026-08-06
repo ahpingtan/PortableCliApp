@@ -8,9 +8,11 @@ using PortableCliApp;
  * their results to the console.
  */
 
-Console.WriteLine("Cross-platform .NET 10 CLI demonstration");
+Console.WriteLine("[HP Training 5-Aug-2026] Cross-platform .NET 10 CLI demonstration");
+Console.WriteLine("Hello HuckPing");
 Console.WriteLine("========================================");
 Console.WriteLine();
+
 
 /*
  * Show the environment in which this build is running.
