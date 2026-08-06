@@ -79,7 +79,7 @@ pipeline {
 		}
 	}
   
-  	stage('HuckPing'){
+  	stage('newTSPM Jenkins'){
 		steps {
 			echo 'Lets try the cross repo jenkins file build'
 		}
