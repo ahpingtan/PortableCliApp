@@ -6,7 +6,7 @@ pipeline {
     // In simplest case, this will be the Jenkins controller 
     // which is also configured to run builds if there is 
     // no separate agent
-    // add additional comments
+
 
     agent any
 
